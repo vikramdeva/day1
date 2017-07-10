@@ -2,4 +2,3 @@
 name=ARGV.first || "World"
 
 puts "Hello, #{name}!"
-vikram deva
